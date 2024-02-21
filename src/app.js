@@ -9,3 +9,7 @@ window.onload = function() {
   //write your code here
   console.log("Hello world");
 };
+
+const age = 26;
+const beverage = age >= 21 ? "Beer" : "Juice";
+console.log(beverage);
